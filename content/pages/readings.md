@@ -594,7 +594,7 @@ _Anonymous (Middle English)_
   
 Full Original Text:  
   
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Project Gutenberg Etext of The Canterbury Tales and Other Poems by Geoffrey Chaucer (PDF - 1.9MB)](http://www.gutenberg.org/ebooks/2383)  
+[The Project Gutenberg Etext of The Canterbury Tales and Other Poems by Geoffrey Chaucer (PDF - 1.9MB)](http://www.gutenberg.org/ebooks/2383)  
   
 Prose Translations:  
   
